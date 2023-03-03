@@ -1,0 +1,6 @@
+opencv-python
+wpkit2
+imagecorruptions
+tqdm
+fire
+wpcv
