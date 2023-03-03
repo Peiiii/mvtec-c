@@ -1,6 +1,6 @@
 # Code to generate MVTec-C
 The dataset is also available at [BaiduNetDisk](https://pan.baidu.com/s/18T9EPUSg3cgxSGoEk92Xog?pwd=fsfd ).
-## Prepare
+## Preliminary
 1. Install dependencies.
 ```shell
 pip install -r requirements.txt
