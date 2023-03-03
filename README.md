@@ -1,5 +1,5 @@
 # Code to generate MVTec-C
-
+The dataset is also available at [BaiduNetDisk](https://pan.baidu.com/s/18T9EPUSg3cgxSGoEk92Xog?pwd=fsfd )
 ## Prepare
 1. Install dependencies.
 ```shell
